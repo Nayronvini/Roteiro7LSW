@@ -1,0 +1,7 @@
+body {
+    font-family: sans-serif;
+}
+
+#nova-partida, #lista-partidas {
+    margin-bottom: 20px;
+}
